@@ -1,0 +1,33 @@
+I"3<h1 id="últimas-postagens">Últimas postagens</h1>
+
+<ul class="blog-posts">
+
+	<li>
+		<a href="http://localhost:4000/blog/2016/07/06/exemplo/">
+			<span class="date">06/07/2016</span>
+			Exemplo de elementos de um post
+			<p>  Modelo de aviso, mensagem de destaque dentro do contexto.</p>
+		</a>
+        <hr />
+	</li>
+
+	<li>
+		<a href="http://localhost:4000/blog/2016/03/05/cachorro-feliz/">
+			<span class="date">05/03/2016</span>
+			Cachorro feliz
+			<p>    O trecho padrão original de Lorem Ipsum, usado desde o século XVI, está reproduzido abaixo para os interessados. Seções 1.10.32 e 1.10.33 de "de Finibus Bonorum et Malorum" ...</p>
+		</a>
+        <hr />
+	</li>
+
+	<li>
+		<a href="http://localhost:4000/blog/2016/02/12/a-vida-de-cachorro-nao-e-facil/">
+			<span class="date">12/02/2016</span>
+			A vida de cachorro não é fácil
+			<p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma b...</p>
+		</a>
+        <hr />
+	</li>
+
+</ul>
+:ET

@@ -1,0 +1,47 @@
+I"�<div class="message">
+  Modelo de aviso, mensagem de destaque dentro do contexto.
+</div>
+
+<h1 id="header-1">Header 1</h1>
+<h2 id="header-2">Header 2</h2>
+<h3 id="header-3">Header 3</h3>
+<h4 id="header-4">Header 4</h4>
+<h5 id="header-5">Header 5</h5>
+
+<ul>
+  <li><strong>Negrito</strong> ou <strong>Negrito</strong></li>
+  <li><em>Itálico</em> ou <em>Itálico</em></li>
+  <li><del>Subrescrito</del></li>
+  <li><ins>Sublinhado</ins></li>
+  <li><sup>Superscript</sup></li>
+  <li><sub>Subscript</sub>
+<abbr title="Abreviação">Abreviação</abbr>
+<cite>Citação inline</cite>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Element">Link</a></li>
+</ul>
+
+<blockquote>
+  <p>Texto de citação</p>
+</blockquote>
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Exemplo de código</span>
+
+<span class="kd">var</span> <span class="nx">lab</span> <span class="o">=</span> <span class="k">new</span> <span class="nb">Function</span><span class="p">(</span><span class="dl">"</span><span class="s2">a</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">b</span><span class="dl">"</span><span class="p">,</span> <span class="dl">"</span><span class="s2">return a + b</span><span class="dl">"</span><span class="p">);</span>
+
+<span class="nx">adder</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">2</span><span class="p">);</span></code></pre></figure>
+
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ul>
+
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item 3</li>
+</ol>
+
+<p><img src="http://localhost:4000/media/labrador_feliz.jpg" alt="placeholder" title="Exemplo de elementos de um post" /></p>
+
+:ET
