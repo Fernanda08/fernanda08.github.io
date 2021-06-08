@@ -1,7 +1,22 @@
-source 'https://rubygems.org'
+# frozen_string_literal: true
 
-require 'json'
-require 'open-uri'
-versions = JSON.parse(open('https://pages.github.com/versions.json').read)
+source "https://rubygems.org"
 
-gem 'github-pages', versions['github-pages']
+git_source(:github) { |repo_name| "https://github.com/#{repo_name}" }
+
+# gem "rails"
+gem "jekyll"
+gem 'did_you_mean', '~>1.5.0'
+gem 'etc'
+gem 'fileutils'
+gem 'delegate'
+gem 'timeout'
+gem 'uri'
+gem 'zlib'
+gem 'stringio'
+gem 'date'
+gem 'ipaddr'
+gem 'openssl'
+gem 'cgi'
+gem 'strscan'
+gem 'forwardable'

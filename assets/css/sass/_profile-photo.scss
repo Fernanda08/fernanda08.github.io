@@ -12,7 +12,7 @@
 .profile-photo {
     /*-webkit-filter: grayscale(100%);
     filter: grayscale(100%);*/
-    background-image: url('../img/bg_lamp.jpg');
+    background-image: url('../img/fenna_mimiendo.jpeg');
     background-size: cover;
     background-attachment: fixed;
     background-position: top center;
@@ -41,7 +41,8 @@
         border-radius: 160px;
         -webkit-border-radius: 160px;
         -moz-border-radius: 150px;
-        background: url(../img/profile_photo.jpg) no-repeat;
+        background: url(../img/foto_pn.jpg) no-repeat;
+        background-size: cover;
         position: absolute;
         left: 50%;
         margin-left: -150px;

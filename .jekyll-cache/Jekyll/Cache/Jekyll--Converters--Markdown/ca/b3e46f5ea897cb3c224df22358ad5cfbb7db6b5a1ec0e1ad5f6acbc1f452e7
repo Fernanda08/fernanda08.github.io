@@ -1,4 +1,4 @@
-I"Ø<div class="message">
+I"Ã<div class="message">
   Modelo de aviso, mensagem de destaque dentro do contexto.
 </div>
 
@@ -42,6 +42,6 @@
   <li>Item 3</li>
 </ol>
 
-<p><img src="http://localhost:4000/media/labrador_feliz.jpg" alt="placeholder" title="Exemplo de elementos de um post" /></p>
+<p><img src="/media/labrador_feliz.jpg" alt="placeholder" title="Exemplo de elementos de um post" /></p>
 
 :ET
