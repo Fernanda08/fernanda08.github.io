@@ -1,9 +1,9 @@
-I"�
+I"�
 <header class="profile-photo scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Me">
     <div class="photo"></div>
     <div class="my-name">
       <h1><span style="background-color:white;">Fernanda Pincheira</span></h1>
-      <h3><span style="background-color:white;"></span>Loyal friend&lt;/span&gt;</h3>
+      <h3><span style="background-color:white;">Loyal friend</span></h3>
     </div>
     
 
@@ -19,7 +19,7 @@
 
 		
 		
-		<li class=""><a href="/pt" title="Cambiar para  Português">pt</a></li>
+		<li class=""><a href="/es" title="Cambiar para  Português">es</a></li>
 
 	
 	</ul>
@@ -45,7 +45,7 @@
 
 		
 		
-		<li class=""><a href="/pt" title="Cambiar para  Português">pt</a></li>
+		<li class=""><a href="/es" title="Cambiar para  Português">es</a></li>
 
 	
 	</ul>

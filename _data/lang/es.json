@@ -1,5 +1,5 @@
 {
-	"name": "Português",
+	"name": "Español",
 	"terms": [{
 		"profile_photo": {
 			"name": "Fernanda Pincheira",
@@ -21,11 +21,6 @@
 			"quote": "\" Hazlo ahora, muchas veces el después se convierte en el nunca \"",
 			"author": "",
 			"section": "Cita"
-		},
-		"blog_posts": {
-			"title": "Últimos posts",
-			"more_posts": "mais posts",
-			"section": "Últimos posts"
 		},
 		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
 	}]

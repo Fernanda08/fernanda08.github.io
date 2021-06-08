@@ -1,8 +1,8 @@
-I"<header class="profile-photo scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Yo">
+I"(<header class="profile-photo scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Yo">
     <div class="photo"></div>
     <div class="my-name">
       <h1><span style="background-color:white;">Fernanda Pincheira</span></h1>
-      <h3><span style="background-color:white;"></span>Profesional en Comercio Exterior&lt;/span&gt;</h3>
+      <h3><span style="background-color:white;">Profesional en Comercio Exterior</span></h3>
     </div>
     
 
@@ -18,7 +18,7 @@
 
 		
 		
-		<li class="ativo"><a href="/pt" title="Cambiar para  Português">pt</a></li>
+		<li class="ativo"><a href="/es" title="Cambiar para  Español">es</a></li>
 
 	
 	</ul>
@@ -44,7 +44,7 @@
 
 		
 		
-		<li class="ativo"><a href="/pt" title="Cambiar para  Português">pt</a></li>
+		<li class="ativo"><a href="/es" title="Cambiar para  Español">es</a></li>
 
 	
 	</ul>
@@ -60,9 +60,7 @@
 					
 						<li><a href="#scrollto-section-3">Cita</a></li>
 					
-						<li><a href="#scrollto-section-4">Últimos posts</a></li>
-					
-						<li><a href="#scrollto-section-5"></a></li>
+						<li><a href="#scrollto-section-4"></a></li>
 					 
 				
 			
