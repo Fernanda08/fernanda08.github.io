@@ -1,0 +1,114 @@
+I"B<header class="profile-photo scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Yo">
+    <div class="photo"></div>
+    <div class="my-name">
+      <h1>Fernanda Pincheira</h1>
+      <h3>Profesional en Comercio Exterior</h3>
+    </div>
+    
+
+
+	<ul class="language">
+	
+
+		
+		
+		<li class=""><a href="/en" title="change to  English">en</a></li>
+
+	
+
+		
+		
+		<li class="ativo"><a href="/pt" title="Cambiar para  Português">pt</a></li>
+
+	
+	</ul>
+ 
+    
+<div class="responsive-menu">
+	<a href="#" class="fa fa-bars btn-responsive-menu"></a>
+	<div class="menu">
+		<img src="/assets/img/istockphoto-1131741622-170667a.jpg" class="logo" />
+
+		<ul>
+			<li><span>Linguagens </span>
+
+
+	<ul class="language">
+	
+
+		
+		
+		<li class=""><a href="/en" title="change to  English">en</a></li>
+
+	
+
+		
+		
+		<li class="ativo"><a href="/pt" title="Cambiar para  Português">pt</a></li>
+
+	
+	</ul>
+ </li>
+			
+				
+			
+				
+					
+						<li><a href="#scrollto-section-1">Yo</a></li>
+					
+						<li><a href="#scrollto-section-2">Sobre mí</a></li>
+					
+						<li><a href="#scrollto-section-3">Cita</a></li>
+					
+						<li><a href="#scrollto-section-4">Últimos posts</a></li>
+					
+						<li><a href="#scrollto-section-5"></a></li>
+					 
+				
+			
+		</ul>
+	</div>
+</div>
+    <div class="gradiente">
+      <div class="scroll-down">
+        <span>Rodar para abajo</span>
+      </div>
+    </div>
+  </header>
+
+<section class="profile-about scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Sobre mí">
+	<div class="text-about">
+		<h4>Sobre mí</h4>
+
+		<p>Hola, mi nombre es Fernanda Pincheira, anteriormente profesora de inglés, ahora egresada de técnico en comercio exterior y con 9 años de experiencia atendiendo al público en CMR Fallabela.</p>
+
+		<p>Mi interés general es ayudar a las empresas en los procesos de importación y exportación de productos, quiero ser un aporte y usar al máximo mis experiencias ganadas trabajando con público, manejo de idiomas y mis conocimientos aprendidos de los procesos aduaneros.</p>
+
+		<p>Busco una empresa en la que tenga oportunidades de crecimiento a largo plazo y pueda perfeccionarme en mi área.</p>
+
+		<p></p>
+	</div>
+	<div class="social-links">
+		<h4>Encuentrame en</h4>
+		<ul class="social">
+
+	<li><a class="fa fa-facebook-official" target="_blank" href="https://www.facebook.com/LabradorRetrieverDogs" title="@LabradorRetrieverDogs" taget="_blank"></a></li>
+
+	<li><a class="fa fa-youtube-play" target="_blank" href="https://www.youtube.com/results?search_query=labrador" title="@labrador" taget="_blank"></a></li>
+
+	<li><a class="fa fa-instagram" target="_blank" href="https://www.instagram.com/explore/tags/#labrador" title="@#labrador" taget="_blank"></a></li>
+
+</ul>
+	</div>
+</section>
+
+<section class="profile-quote scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Cita">
+	<div class="overlay-quote outer-vertical ">
+		<div class="text-quote inner-vertical ">
+			<h4>Cita Favorita</h4>
+			<p>" Hazlo ahora, muchas veces el después se convierte en el nunca "</p>
+			<div class="author-quote"></div>
+		</div>
+	</div>
+</section>
+:ET

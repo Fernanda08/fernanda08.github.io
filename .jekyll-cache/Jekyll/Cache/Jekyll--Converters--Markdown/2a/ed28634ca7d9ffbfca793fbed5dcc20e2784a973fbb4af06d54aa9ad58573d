@@ -1,0 +1,102 @@
+I"<header class="profile-photo scrollable-section" data-stellar-background-ratio="0.5" data-section-title="">
+    <div class="photo"></div>
+    <div class="my-name">
+      <h1></h1>
+      <h3></h3>
+    </div>
+    
+
+
+	<ul class="language">
+	
+
+		
+		
+		<li class=""><a href="/en" title="change to  English">en</a></li>
+
+	
+
+		
+		
+		<li class=""><a href="/pt" title="Cambiar para  Português">pt</a></li>
+
+	
+	</ul>
+ 
+    
+<div class="responsive-menu">
+	<a href="#" class="fa fa-bars btn-responsive-menu"></a>
+	<div class="menu">
+		<img src="/assets/img/istockphoto-1131741622-170667a.jpg" class="logo" />
+
+		<ul>
+			<li><span>Linguagens </span>
+
+
+	<ul class="language">
+	
+
+		
+		
+		<li class=""><a href="/en" title="change to  English">en</a></li>
+
+	
+
+		
+		
+		<li class=""><a href="/pt" title="Cambiar para  Português">pt</a></li>
+
+	
+	</ul>
+ </li>
+			
+				
+			
+				
+			
+		</ul>
+	</div>
+</div>
+    <div class="gradiente">
+      <div class="scroll-down">
+        <span></span>
+      </div>
+    </div>
+  </header>
+
+<section class="profile-about scrollable-section" data-stellar-background-ratio="0.5" data-section-title="">
+	<div class="text-about">
+		<h4></h4>
+
+		<p></p>
+
+		<p></p>
+
+		<p></p>
+
+		<p></p>
+	</div>
+	<div class="social-links">
+		<h4></h4>
+		<ul class="social">
+
+	<li><a class="fa fa-facebook-official" target="_blank" href="https://www.facebook.com/LabradorRetrieverDogs" title="@LabradorRetrieverDogs" taget="_blank"></a></li>
+
+	<li><a class="fa fa-youtube-play" target="_blank" href="https://www.youtube.com/results?search_query=labrador" title="@labrador" taget="_blank"></a></li>
+
+	<li><a class="fa fa-instagram" target="_blank" href="https://www.instagram.com/explore/tags/#labrador" title="@#labrador" taget="_blank"></a></li>
+
+</ul>
+	</div>
+</section>
+
+<section class="profile-quote scrollable-section" data-stellar-background-ratio="0.5" data-section-title="">
+	<div class="overlay-quote outer-vertical ">
+		<div class="text-quote inner-vertical ">
+			<h4></h4>
+			<p></p>
+			<div class="author-quote"></div>
+		</div>
+	</div>
+</section>
+:ET

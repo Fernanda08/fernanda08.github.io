@@ -1,0 +1,32 @@
+{
+	"name": "Português",
+	"terms": [{
+		"profile_photo": {
+			"name": "Fernanda Pincheira",
+			"position": "Profesional en Comercio Exterior",
+			"change": "Cambiar para ",
+			"scroll_down": "Rodar para abajo",
+			"section": "Yo"
+		},
+		"profile_about": {
+			"title": "Sobre mí",
+			"paragraph_1": "Hola, mi nombre es Fernanda Pincheira, anteriormente profesora de inglés, ahora egresada de técnico en comercio exterior y con 9 años de experiencia atendiendo al público en CMR Fallabela.",
+			"paragraph_2": "Mi interés general es ayudar a las empresas en los procesos de importación y exportación de productos, quiero ser un aporte y usar al máximo mis experiencias ganadas trabajando con público, manejo de idiomas y mis conocimientos aprendidos de los procesos aduaneros.",
+			"paragraph_3": "Busco una empresa en la que tenga oportunidades de crecimiento a largo plazo y pueda perfeccionarme en mi área.",
+			"section": "Sobre mí",
+			"title_social": "Encuentrame en"
+		},
+		"profile_quote": {
+			"title": "Cita Favorita",
+			"quote": "\" Hazlo ahora, muchas veces el después se convierte en el nunca \"",
+			"author": "",
+			"section": "Cita"
+		},
+		"blog_posts": {
+			"title": "Últimos posts",
+			"more_posts": "mais posts",
+			"section": "Últimos posts"
+		},
+		"copyright": "Copyright © 2016 Rodrigo Donini. Made with ♥ and <a href='https://jekyllrb.com/' target='_blank'>Jekyll</a> fork on <a href='https://github.com/donini/personal-page' target='_blank'>Github</a>."
+	}]
+}

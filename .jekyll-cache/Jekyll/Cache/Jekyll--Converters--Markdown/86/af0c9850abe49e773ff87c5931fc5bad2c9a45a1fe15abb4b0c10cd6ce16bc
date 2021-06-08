@@ -1,0 +1,112 @@
+I"�<header class="profile-photo scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Me">
+    <div class="photo"></div>
+    <div class="my-name">
+      <h1>Fernanda Pincheira</h1>
+      <h3>Loyal friend</h3>
+    </div>
+    
+
+
+	<ul class="language">
+	
+
+		
+		
+		<li class="ativo"><a href="/en" title="change to  English">en</a></li>
+
+	
+
+		
+		
+		<li class=""><a href="/pt" title="Cambiar para  Português">pt</a></li>
+
+	
+	</ul>
+ 
+    
+<div class="responsive-menu">
+	<a href="#" class="fa fa-bars btn-responsive-menu"></a>
+	<div class="menu">
+		<img src="/assets/img/istockphoto-1131741622-170667a.jpg" class="logo" />
+
+		<ul>
+			<li><span>Linguagens </span>
+
+
+	<ul class="language">
+	
+
+		
+		
+		<li class="ativo"><a href="/en" title="change to  English">en</a></li>
+
+	
+
+		
+		
+		<li class=""><a href="/pt" title="Cambiar para  Português">pt</a></li>
+
+	
+	</ul>
+ </li>
+			
+				
+					
+						<li><a href="#scrollto-section-1">Me</a></li>
+					
+						<li><a href="#scrollto-section-2">About</a></li>
+					
+						<li><a href="#scrollto-section-3">Quote</a></li>
+					
+						<li><a href="#scrollto-section-4"></a></li>
+					 
+				
+			
+				
+			
+		</ul>
+	</div>
+</div>
+    <div class="gradiente">
+      <div class="scroll-down">
+        <span>Scroll down</span>
+      </div>
+    </div>
+  </header>
+
+<section class="profile-about scrollable-section" data-stellar-background-ratio="0.5" data-section-title="About">
+	<div class="text-about">
+		<h4>About</h4>
+
+		<p>My full name is Charlotte Donini, but my friends call me simply 'Lotte' :-). I am a <a href="https://pt.wikipedia.org/wiki/Labrador_retriever" title="Labrador in wiki" target="_blank"> female labrador retriever </a>. I live with my lovely family.</p>
+
+		<p>I am very playful with my large size I drop everything that crosses in my way.</p>
+
+		<p>I love eating and sleeping during the day, lie in the sun belly up is my preferred position.</p>
+
+		<p>Run and walk with my master are my favorite sports.</p>
+	</div>
+	<div class="social-links">
+		<h4>Social</h4>
+		<ul class="social">
+
+	<li><a class="fa fa-facebook-official" target="_blank" href="https://www.facebook.com/LabradorRetrieverDogs" title="@LabradorRetrieverDogs" taget="_blank"></a></li>
+
+	<li><a class="fa fa-youtube-play" target="_blank" href="https://www.youtube.com/results?search_query=labrador" title="@labrador" taget="_blank"></a></li>
+
+	<li><a class="fa fa-instagram" target="_blank" href="https://www.instagram.com/explore/tags/#labrador" title="@#labrador" taget="_blank"></a></li>
+
+</ul>
+	</div>
+</section>
+
+<section class="profile-quote scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Quote">
+	<div class="overlay-quote outer-vertical ">
+		<div class="text-quote inner-vertical ">
+			<h4>Favorite quote</h4>
+			<p>" No matter that few are your possessions and your money. Having a dog makes you rich. "</p>
+			<div class="author-quote">Louis Sabin</div>
+		</div>
+	</div>
+</section>
+:ET
