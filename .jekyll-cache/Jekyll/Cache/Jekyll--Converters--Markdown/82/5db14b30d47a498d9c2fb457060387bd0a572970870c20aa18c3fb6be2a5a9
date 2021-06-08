@@ -1,8 +1,9 @@
-I"z<header class="profile-photo scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Me">
+I"�
+<header class="profile-photo scrollable-section" data-stellar-background-ratio="0.5" data-section-title="Me">
     <div class="photo"></div>
     <div class="my-name">
-      <h1>Labrador</h1>
-      <h3>Loyal friend</h3>
+      <h1><span style="background-color:white;">Fernanda Pincheira</span></h1>
+      <h3><span style="background-color:white;"></span>Loyal friend&lt;/span&gt;</h3>
     </div>
     
 
@@ -18,7 +19,7 @@
 
 		
 		
-		<li class=""><a href="/pt" title="mudar para  Português">pt</a></li>
+		<li class=""><a href="/pt" title="Cambiar para  Português">pt</a></li>
 
 	
 	</ul>
@@ -44,7 +45,7 @@
 
 		
 		
-		<li class=""><a href="/pt" title="mudar para  Português">pt</a></li>
+		<li class=""><a href="/pt" title="Cambiar para  Português">pt</a></li>
 
 	
 	</ul>
@@ -90,11 +91,7 @@
 		<h4>Social</h4>
 		<ul class="social">
 
-	<li><a class="fa fa-facebook-official" target="_blank" href="https://www.facebook.com/LabradorRetrieverDogs" title="@LabradorRetrieverDogs" taget="_blank"></a></li>
-
-	<li><a class="fa fa-youtube-play" target="_blank" href="https://www.youtube.com/results?search_query=labrador" title="@labrador" taget="_blank"></a></li>
-
-	<li><a class="fa fa-instagram" target="_blank" href="https://www.instagram.com/explore/tags/#labrador" title="@#labrador" taget="_blank"></a></li>
+	<li><a class="fa fa-linkedin" target="_blank" href="https://www.linkedin.com/in/fernanda-pincheira/fernanda-pincheira" title="@fernanda-pincheira" taget="_blank"></a></li>
 
 </ul>
 	</div>

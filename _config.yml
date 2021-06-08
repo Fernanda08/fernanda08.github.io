@@ -9,7 +9,7 @@ url:  # the base hostname & protocol for your site
 logo: "/assets/img/istockphoto-1131741622-170667a.jpg"
 
 # Build settings
-paginate: 0
+paginate: 10
 paginate_path: "/blog/page:num/"
 markdown: kramdown
 sass:
